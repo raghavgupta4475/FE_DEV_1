@@ -1,0 +1,30 @@
+{
+  "name": "fe_dev_1",
+  "version": "1.0.0",
+  "description": "raghav",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghavgupta4475/FE_DEV_1.git"
+  },
+  "author": "raghav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghavgupta4475/FE_DEV_1/issues"
+  },
+  "homepage": "https://github.com/raghavgupta4475/FE_DEV_1#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "cover 99.5%"
+  ]
+}
